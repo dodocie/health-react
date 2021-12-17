@@ -1,0 +1,1 @@
+export const ToastIcon = (type: 'success' | 'warn') => <div className={`tips-${type}`}></div>
